@@ -61,7 +61,7 @@ This class handles the operations related to mark sheets.
 ```
 			Academia International College
 				Gwarko, Lalitpur
-					9800000000
+                                  9800000000
 
 Class : X
 Name : John Doe
